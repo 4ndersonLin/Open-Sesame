@@ -1,5 +1,5 @@
 # Open-Sesame
-Add the temporary security group rule for remote login. After emergancy operation over, remove the security group rule automatically.   
+Add the temporary security group rule for emergency remote login. After emergency operation over, remove the security group rule automatically.
 It will create a rule allow specific port and public IP address from your device.
 
 # Necessary parameters for running open-sesame
